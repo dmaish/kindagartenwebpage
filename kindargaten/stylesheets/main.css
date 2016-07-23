@@ -1,0 +1,91 @@
+
+
+div{
+    margin: 3em;
+}
+/*this other styling for triangles also works*/
+.triangle{
+    display: inline-block;
+    width: 0em;
+    height: 0em;
+    border: solid 10em;
+    border-color: transparent transparent darkslategray transparent ;
+}
+
+/*.triangle{
+  width: 0;
+  height: 0;
+  border-top-width: 80px;
+  border-top-style: solid;
+  border-top-color: transparent;
+  border-right-width: 80px;
+  border-right-style: solid;
+  border-right-color: red;
+}*/
+.circle{
+    display: inline-block;
+    width:10em;
+    height:10em;
+    border: 2em;
+    border-color: darkslategray;
+    background-color: crimson;
+    border-radius: 30em;
+}
+
+.rectangle{
+    display: inline-block;
+    width:15em;
+    height: 10em;
+    background-color: darkred;
+    
+}
+
+.square{
+    display: inline-block;
+    width: 10em;
+    height: 10em;
+    background-color: midnightblue;
+    margin-left: 22em;
+    
+}
+.oval{
+    display: inline-block;
+    width: 13em;
+    height: 10em;
+    background-color: saddlebrown;
+    border-radius: 30em;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
